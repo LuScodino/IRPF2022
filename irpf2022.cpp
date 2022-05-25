@@ -55,9 +55,9 @@ int main()
 
         cout <<"Imposto mensal:"<< mensal << endl;
         cout <<"Imposto anual:"<< anual << endl;
+      
+        return main();
 
     }
    
-   return 0;
-
 }
